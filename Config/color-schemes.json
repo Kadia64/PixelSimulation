@@ -1,0 +1,268 @@
+{
+  "Dust": [
+    {
+      "Sand": {
+        "DisplayColor": [ 255, 255, 0 ],
+        "Light": [ 223, 198, 113 ],
+        "Medium": [ 230, 193, 67 ],
+        "Dark": [ 212, 173, 40 ],
+        "ExtraDark": [ 183, 162, 90 ],
+        "Colors": []
+      },
+      "Salt": {
+        "DisplayColor": [ 255, 255, 255 ],
+        "Light": [ 239, 239, 239 ],
+        "Medium": [ 228, 228, 228 ],
+        "Dark": null,
+        "ExtraDark": null,
+        "Colors": []
+      },
+      "CoalDust": {
+        "DisplayColor": [ 0, 0, 0 ],
+        "Light": [ 62, 61, 61 ],
+        "Medium": [ 43, 43, 43 ],
+        "Dark": [ 30, 27, 27 ],
+        "ExtraDark": [ 13, 13, 13 ],
+        "Colors": []
+      },
+      "CopperDust": {
+        "DisplayColor": [ 255, 165, 0 ],
+        "Light": [ 244, 150, 85 ],
+        "Medium": [ 225, 128, 62 ],
+        "Dark": [ 223, 113, 38 ],
+        "ExtraDark": [ 196, 101, 37 ],
+        "Colors": []
+      },
+      "Sawdust": {
+        "DisplayColor": [ 218, 181, 105 ],
+        "Light": [ 238, 221, 187 ],
+        "Medium": [ 229, 197, 129 ],
+        "Dark": [ 218, 181, 105 ],
+        "ExtraDark": [ 180, 148, 87 ],
+        "Colors": []
+      },
+      "GoldDust": {
+        "DisplayColor": [ 255, 222, 0 ],
+        "Light": [ 247, 239, 100 ],
+        "Medium": [ 255, 245, 26 ],
+        "Dark": [ 251, 228, 73 ],
+        "ExtraDark": [ 255, 222, 0 ],
+        "Colors": []
+      },
+      "Gunpowder": {
+        "DisplayColor": [ 65, 65, 65 ],
+        "Light": [ 169, 166, 166 ],
+        "Medium": [ 65, 65, 65 ],
+        "Dark": [ 30, 27, 27 ],
+        "ExtraDark": [ 13, 13, 13 ],
+        "Colors": []
+      },
+      "Sodium": {
+        "DisplayColor": [ 179, 180, 198 ],
+        "Light": [ 239, 239, 255 ],
+        "Medium": [ 228, 228, 255 ],
+        "Dark": [ 198, 199, 220 ],
+        "ExtraDark": [ 179, 180, 198 ],
+        "Colors": []
+      },
+      "Snow": {
+        "DisplayColor": [ 0, 0, 0 ],
+        "Light": [ 0, 0, 0 ],
+        "Medium": [ 0, 0, 0 ],
+        "Dark": [ 0, 0, 0 ],
+        "ExtraDark": [ 0, 0, 0 ],
+        "Colors": []
+      },
+      "IronDust": {
+        "DisplayColor": [ 0, 0, 0 ],
+        "Light": [ 0, 0, 0 ],
+        "Medium": [ 0, 0, 0 ],
+        "Dark": [ 0, 0, 0 ],
+        "ExtraDark": [ 0, 0, 0 ],
+        "Colors": []
+      }
+    }
+  ],
+  "Liquid": [
+    {
+      "Water": {
+        "DisplayColor": [ 0, 0, 255 ],
+        "Light": [ 30, 101, 234 ],
+        "Medium": [ 29, 96, 223 ],
+        "Dark": [ 28, 92, 212 ],
+        "ExtraDark": [ 9, 78, 207 ],
+        "Colors": []
+      },
+      "Slime": {
+        "DisplayColor": [ 102, 205, 170 ],
+        "Light": [ 102, 205, 170 ],
+        "Medium": [ 95, 199, 163 ],
+        "Dark": [ 84, 188, 153 ],
+        "ExtraDark": [ 80, 172, 140 ],
+        "Colors": []
+      },
+      "Lava": {
+        "DisplayColor": [ 255, 155, 0 ],
+        "Light": [ 255, 155, 0 ],
+        "Medium": [ 230, 140, 0 ],
+        "Dark": null,
+        "ExtraDark": null,
+        "Colors": []
+      },
+      "Acid": {
+        "DisplayColor": [ 0, 255, 22 ],
+        "Light": [ 0, 255, 22 ],
+        "Medium": null,
+        "Dark": null,
+        "ExtraDark": null,
+        "Colors": []
+      },
+      "MoltenAluminium": {
+        "DisplayColor": [ 127, 199, 239 ],
+        "Light": [ 208, 234, 248 ],
+        "Medium": [ 127, 199, 239 ],
+        "Dark": [ 100, 156, 187 ],
+        "ExtraDark": [ 87, 136, 164 ],
+        "Colors": []
+      },
+      "Oil": {
+        "DisplayColor": [ 30, 27, 27 ],
+        "Light": null,
+        "Medium": null,
+        "Dark": [ 34, 34, 34],
+        "ExtraDark": [ 30, 27, 27 ],
+        "Colors": []
+      }
+    }
+  ],
+  "Gas": [
+    {
+      "Smoke": {
+        "DisplayColor": [ 128, 128, 128 ],
+        "Light": null,
+        "Medium": null,
+        "Dark": [ 107, 106, 107 ],
+        "ExtraDark": [ 98, 96, 98 ],
+        "Colors": []
+      },
+      "Steam": {
+        "DisplayColor": [ 217, 217, 217 ],
+        "Light": [ 224, 224, 224 ],
+        "Medium": [ 217, 217, 217 ],
+        "Dark": null,
+        "ExtraDark": null,
+        "Colors": []
+      },
+      "Hydrogen": {
+        "DisplayColor": [ 141, 100, 100 ],
+        "Light": [ 141, 100, 100 ],
+        "Medium": null,
+        "Dark": null,
+        "ExtraDark": null,
+        "Colors": []
+      },
+      "Methane": {
+        "DisplayColor": [ 90, 89, 25 ],
+        "Light": [ 90, 89, 25 ],
+        "Medium": [ 84, 83, 29 ],
+        "Dark": null,
+        "ExtraDark": null,
+        "Colors": []
+      },
+      "AcidFumes": {
+        "DisplayColor": [ 0, 166, 14 ],
+        "Light": [ 0, 166, 14 ],
+        "Medium": null,
+        "Dark": null,
+        "ExtraDark": null,
+        "Colors": []
+      },
+      "Propane": {
+        "DisplayColor": [ 223, 202, 72 ],
+        "Light": [ 223, 202, 72 ],
+        "Medium": [ 195, 176, 64 ],
+        "Dark": null,
+        "ExtraDark": null,
+        "Colors": []
+      },
+      "Helium": {
+        "DisplayColor": [ 80, 51, 42 ],
+        "Light": [ 80, 51, 42 ],
+        "Medium": null,
+        "Dark": null,
+        "ExtraDark": null,
+        "Colors": []
+      }
+    }
+  ],
+  "Solid": [
+    {
+      "Stone": {
+        "DisplayColor": [ 169, 169, 169 ],
+        "Light": [ 153, 149, 156 ],
+        "Medium": [ 141, 138, 142 ],
+        "Dark": [ 134, 132, 134 ],
+        "ExtraDark": [ 122, 120, 123 ],
+        "Colors": []
+      },
+      "Wood": {
+        "DisplayColor": [ 210, 105, 30 ],
+        "Light": [ 156, 93, 63 ],
+        "Medium": [ 150, 90, 61 ],
+        "Dark": [ 143, 86, 59 ],
+        "ExtraDark": [ 137, 83, 58 ],
+        "Colors": []
+      },
+      "Titanium": {
+        "DisplayColor": [ 191, 181, 199 ],
+        "Light": [ 218, 209, 225 ],
+        "Medium": [ 208, 199, 217 ],
+        "Dark": [ 203, 194, 209 ],
+        "ExtraDark": [ 191, 181, 199 ],
+        "Colors": []
+      },
+      "Obsidian": {
+        "DisplayColor": [ 75, 0, 130 ],
+        "Light": [ 44, 27, 59 ],
+        "Medium": [ 39, 29, 48 ],
+        "Dark": [ 30, 25, 35 ],
+        "ExtraDark": [ 22, 20, 24 ],
+        "Colors": []
+      },
+      "Iron": {
+        "DisplayColor": [ 150, 150, 150 ],
+        "Light": [ 255, 255, 255 ],
+        "Medium": [ 222, 222, 222 ],
+        "Dark": [ 168, 168, 168 ],
+        "ExtraDark": [ 150, 150, 150 ],
+        "Colors": []
+      },
+      "Polyethylene": {
+        "DisplayColor": [ 198, 198, 198 ],
+        "Light": [ 198, 198, 198 ],
+        "Medium": [ 183, 183, 183 ],
+        "Dark": null,
+        "ExtraDark": null,
+        "Colors": []
+      },
+      "Aluminium": {
+        "DisplayColor": [ 127, 199, 239 ],
+        "Light": [ 208, 234, 248 ],
+        "Medium": [ 127, 199, 239 ],
+        "Dark": [ 100, 156, 187 ],
+        "ExtraDark": [ 87, 136, 164 ],
+        "Colors": []
+      }
+    }
+  ],
+
+
+  "Example": {
+    "DisplayColor": [],
+    "Light": [],
+    "Medium": [],
+    "Dark": [],
+    "ExtraDark": [],
+    "Colors": []
+  }
+}

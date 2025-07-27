@@ -1,0 +1,23 @@
+
+
+
+
+
+
+
+
+EqualSidesRandomRange and EqualSidesLower determines the wall breakup mechanic.
+These two values will generate a random amount of spread between the Lower value and Range
+The higher value is calculated automatically with no input
+~ Use this mechanism with a MaxWallHeight value of 5-10 to make piles of particles more harder to break apart
+
+RANGE = 80 | LOWER = 10
+will spread more flat and even
+
+RANGE = 80 | LOWER = 50+
+will make a spike effect when pixels cascading/falling down in a pile, not ideal
+
+RANGE = 60 | LOWER = 30
+will make a ledge/pile effect, it will look like the piles of pixels have different levels of platforms
+
+
